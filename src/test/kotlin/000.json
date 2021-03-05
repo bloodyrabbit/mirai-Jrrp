@@ -1,0 +1,74 @@
+
+  {
+    "app": "com.tencent.miniapp",
+    "desc": "",
+    "view": "notification",
+    "ver": "0.0.0.1",
+    "prompt": "绿毛仔",
+    "meta": {
+      "notification": {
+        "appInfo": {
+          "appName": "莫斯科",
+          "appType": 4,
+          "appid": 1109659848,
+          "iconUrl": "http:\/\/q1.qlogo.cn\/g?b=qq&nk=1927208695&s=100"
+        },
+        "data": [
+          {
+            "title": "实时温度",
+            "value": "114514"
+          },
+          {
+            "title": "高温",
+            "value": "15"
+          },
+          {
+            "title": "低温",
+            "value": "-2"
+          },
+          {
+            "title": "啊吧啊吧",
+            "value": "良"
+          },
+          {
+            "title": "pm2.5:",
+            "value": "68"
+          },
+          {
+            "title": "湿度",
+            "value": "18%"
+          },
+          {
+            "title": "能见度",
+            "value": "11.8km"
+          },
+          {
+            "title": "实时天气",
+            "value": "多云"
+          },
+          {
+            "title": "星期",
+            "value": "星期一"
+          },
+          {
+            "title": "风向",
+            "value": "西南风"
+          },
+          {
+            "title": "风速",
+            "value": "小于12km\/h"
+          },
+          {
+            "title": "风力等级",
+            "value": "2级"
+          },
+          {
+            "title": "更新时间",
+            "value": "2021-02-0111:01:59"
+          }
+        ],
+        "title": "绿毛仔",
+        "emphasis_keyword": ""
+      }
+    }
+  }

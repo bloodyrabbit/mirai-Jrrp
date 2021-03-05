@@ -1,0 +1,43 @@
+{
+  "app": "com.tencent.miniapp_01",
+  "config": {
+    "autoSize": 0,
+    "ctime": 1614153518,
+    "forward": 1,
+    "height": 0,
+    "token": "0fe07f1e8b39a70c33762e6534d457b4",
+    "type": "normal",
+    "width": 0
+  },
+  "desc": "《的士速递》 人类开车迷惑行为大赏",
+  "extra": {
+    "app_type": 1,
+    "appid": 100951776,
+    "uin": 2275072700
+  },
+  "meta": {
+    "detail_1": {
+      "appid": "1109937557",
+      "desc": "《的士速递》人类开车迷惑行为大赏",
+      "gamePoints": "",
+      "gamePointsUrl": "",
+      "host": {
+        "nick": "蓝莲蓬",
+        "uin": 2275072700
+      },
+      "icon": "http://i.gtimg.cn/open/app_icon/00/95/17/76//100951776_100_m.png?t=1612769866",
+      "preview": "pubminishare-30161.picsz.qpic.cn/41304f86-0480-4be0-9bd8-68c035edb2f6",
+      "qqdocurl": "https://b23.tv/Xfsctt?share_medium=android&share_source=qq&bbid=XY58270526FB6D21780FBE845A829097CA1EB&ts=1614153507998",
+      "scene": 1036,
+      "shareTemplateData": {},
+      "shareTemplateId": "8C8E89B49BE609866298ADDFF2DBABA4",
+      "showLittleTail": "",
+      "title": "《的士速递》 人类开车迷惑行为大赏",
+      "url": "m.q.qq.com/a/s/ec21d4f89bb03f6a183cc78a33d798ba"
+    }
+  },
+  "needShareCallBack": false,
+  "prompt": "[QQ小程序]《的士速递》 人类开车迷惑行为大赏",
+  "ver": "1.0.0.19",
+  "view": "view_8C8E89B49BE609866298ADDFF2DBABA4"
+}

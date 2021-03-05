@@ -1,0 +1,37 @@
+{
+  "app": "com.tencent.structmsg",
+  "config": {
+    "autosize": true,
+    "ctime": 1614153694,
+    "forward": true,
+    "token": "ef20f07483c79bc3ba1d17fdf003b3c7",
+    "type": "normal"
+  },
+  "desc": "音乐",
+  "extra": {
+    "app_type": 1,
+    "appid": 100495085,
+    "msg_seq": 6932737327642448410,
+    "uin": 2275072700
+  },
+  "meta": {
+    "music": {
+      "action": "",
+      "android_pkg_name": "",
+      "app_type": 1,
+      "appid": 100495085,
+      "desc": "mpi/Benjamin Anderson",
+      "jumpUrl": "https://y.music.163.com/m/song/1367333215/?userid=489969302&app_version=8.1.10",
+      "musicUrl": "http://music.163.com/song/media/outer/url?id=1367333215&userid=489969302",
+      "preview": "http://p4.music.126.net/0yuAOPXP8VXMFMhXFBoU5g==/109951165561004824.jpg",
+      "sourceMsgId": "0",
+      "source_icon": "",
+      "source_url": "",
+      "tag": "网易云音乐",
+      "title": "Gallant Ones"
+    }
+  },
+  "prompt": "[分享]Gallant Ones",
+  "ver": "0.0.0.1",
+  "view": "music"
+}
